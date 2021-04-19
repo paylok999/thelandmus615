@@ -1,0 +1,36 @@
+//=========================================================================================================================================
+// NHServers www.nhservers.com.br
+//=========================================================================================================================================
+0
+//EventName              DropZen   ItemDropRate   ItemDropCount   SetItemDropRate   ItemDropType   Fireworks	DropInventory
+"Silver Medal"	         2000000   40		  1		  0		    0		   1            0
+end
+
+1
+//Section   Type   MinLevel   MaxLevel   Skill   Luck   Option   Excellent
+  13        21     0          0          0       0      1        1 //Ice Ring 
+  13        25     0          0          0       0      1        1 //Ice Neck 
+
+  13        23     0          0          0       0      1        1 //Poison Ring 
+  13        12     0          0          0       0      1        1 //Light Neck 
+
+  13        22     0          0          0       0      1        1 //Earth Ring 
+  13        27     0          0          0       0      1        1 //Water Neck
+
+  13        10     0          0          0       0      0        0 //Dino Transformation Ring 
+  13        10     1          0          0       0      0        0 //Giant Transformation Ring 
+  13        10     2          0          0       0      0        0 //Skeleton Transformation Ring 
+
+
+
+
+
+  13        21     0          0          0       0      1        0 //Ice Ring 
+  13        25     0          0          0       0      1        0 //Ice Neck 
+
+  13        23     0          0          0       0      1        0 //Poison Ring 
+  13        12     0          0          0       0      1        0 //Light Neck 
+
+  13        22     0          0          0       0      1        0 //Earth Ring 
+  13        27     0          0          0       0      1        0 //Water Neck
+end

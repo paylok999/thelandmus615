@@ -1,0 +1,17 @@
+//=========================================================================================================================================
+// NHServers www.nhservers.com.br
+//=========================================================================================================================================
+3
+//Index   DropRate    DropInventory
+0         100000      0
+end
+
+4
+//Index   Section   SectionRate   MoneyAmount   OptionValue   DW   DK   FE   MG   DL   SU   RF
+0         5         100000        0             1             1   1     1    1    1    1    1
+end
+
+5
+//Index   Level   Grade   Option0   Option1   Option2   Option3   Option4   Option5   Option6   Duration   Comment
+6429      15      0       *         2         12        1         17        13        *         2592000     //wing of angel and devil
+end

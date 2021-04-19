@@ -1,0 +1,7 @@
+//=========================================================================================================================================
+// NHServers www.nhservers.com.br
+//=========================================================================================================================================
+//Increase Monster Power(def/att) by Resets,Master Resets and Master level and level
+//MinLevel   MaxLevel   MinMasterLevel   MaxMasterLevel   MinReset   MaxReset   MinMasterReset   MaxMasterReset   PowerRate
+//*	     *		*		 *		  1	     10	        *		 *		  500
+end
