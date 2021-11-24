@@ -11,13 +11,13 @@
 185	  1000	     75 	   75		 75	       75        //Wings of Magic(MG)
 186	  1000	     75 	   75		 75	       75        //Wings of Magic(SU)
 187	  1000	     75 	   75		 75	       75        //Wings of Life(ME)
-188	  1000	     60 	   60		 60	       60        //Garuda Feather Wings Lv3 BK
-189	  1000	     60 	   60		 60	       60        //Garuda Feather Wings Lv3 SM
-190	  1000	     60 	   60		 60	       60        //Garuda Feather Wings Lv3 ME
-191	  1000	     60 	   60		 60	       60        //Garuda Feather Wings Lv3 MG
-192	  1000	     60 	   60		 60	       60        //Garuda Feather Wings Lv3 DL
-193	  1000	     60 	   60		 60	       60        //Garuda Feather Wings Lv3 SU
-194	  1000	     60 	   60		 60	       60        //Garuda Feather Wings Lv3 RF
+188	  1000	     50 	   50		 50	       50        //Garuda Feather Wings Lv3 BK
+189	  1000	     50 	   50		 50	       50        //Garuda Feather Wings Lv3 SM
+190	  1000	     50 	   50		 50	       50        //Garuda Feather Wings Lv3 ME
+191	  1000	     50 	   50		 50	       50        //Garuda Feather Wings Lv3 MG
+192	  1000	     50 	   50		 50	       50        //Garuda Feather Wings Lv3 DL
+193	  1000	     50 	   50		 50	       50        //Garuda Feather Wings Lv3 SU
+194	  1000	     50 	   50		 50	       50        //Garuda Feather Wings Lv3 RF
 195	  1000	     50 	   50		 50	       50        //Wings Lv4
 196	  1000	     100 	   100		 100	       100       //Bloodangel Mix - Ancient Hero's Soul
 197	  1000	     100 	   100		 100	       100       //Bloodangel Set Mix - 

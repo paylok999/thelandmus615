@@ -1,6 +1,3 @@
-//=========================================================================================================================================
-// NHServers www.nhservers.com.br
-//=========================================================================================================================================
 /////////////////////////////////////////////////////////////////////////////
 //NPC NAME - 018 - Marseille
 /////////////////////////////////////////////////////////////////////////////
@@ -17,10 +14,10 @@
 13	0	0	0	0	0	0	0 0 0 0 0 0 0 0 0    //Guardian Angel
 8	39	2	0	0	1	1	0 0 0 0 0 0 0 0 0    //Violent Wind Armor
 8	40	2	0	0	1	1	0 0 0 0 0 0 0 0 0    //Red Wing Armor
-14	3	0	50	0	0	0	0 0 0 0 0 0 0 0 0    //Large Healing Potion
-14	3	0	50	0	0	0	0 0 0 0 0 0 0 0 0    //Large Healing Potion
-14	3	0	50	0	0	0	0 0 0 0 0 0 0 0 0    //Large Healing Potion
-14	3	0	50	0	0	0	0 0 0 0 0 0 0 0 0    //Large Healing Potion
+14	3	0	3	0	0	0	0 0 0 0 0 0 0 0 0    //Large Healing Potion
+14	3	0	3	0	0	0	0 0 0 0 0 0 0 0 0    //Large Healing Potion
+14	3	0	3	0	0	0	0 0 0 0 0 0 0 0 0    //Large Healing Potion
+14	3	0	3	0	0	0	0 0 0 0 0 0 0 0 0    //Large Healing Potion
 14	6	0	0	0	0	0	0 0 0 0 0 0 0 0 0    //Large Mana Potion
 14	6	0	0	0	0	0	0 0 0 0 0 0 0 0 0    //Large Mana Potion
 14	6	0	0	0	0	0	0 0 0 0 0 0 0 0 0    //Large Mana Potion
@@ -37,10 +34,10 @@
 13	2	0	0	0	0	0	0 0 0 0 0 0 0 0 0    //Horn of Uniria
 10	39	2	0	0	1	1	0 0 0 0 0 0 0 0 0    //Violent Wind Gloves
 10	40	2	0	0	1	1	0 0 0 0 0 0 0 0 0    //Red Wing Gloves
-14	3	0	50	0	0	0	0 0 0 0 0 0 0 0 0    //Large Healing Potion
-14	3	0	50	0	0	0	0 0 0 0 0 0 0 0 0    //Large Healing Potion
-14	3	0	50	0	0	0	0 0 0 0 0 0 0 0 0    //Large Healing Potion
-14	3	0	50	0	0	0	0 0 0 0 0 0 0 0 0    //Large Healing Potion
+14	3	0	3	0	0	0	0 0 0 0 0 0 0 0 0    //Large Healing Potion
+14	3	0	3	0	0	0	0 0 0 0 0 0 0 0 0    //Large Healing Potion
+14	3	0	3	0	0	0	0 0 0 0 0 0 0 0 0    //Large Healing Potion
+14	3	0	3	0	0	0	0 0 0 0 0 0 0 0 0    //Large Healing Potion
 14	6	0	0	0	0	0	0 0 0 0 0 0 0 0 0    //Large Mana Potion
 14	6	0	0	0	0	0	0 0 0 0 0 0 0 0 0    //Large Mana Potion
 14	6	0	0	0	0	0	0 0 0 0 0 0 0 0 0    //Large Mana Potion
@@ -51,4 +48,8 @@
 15	3	0	0	0	0	0	0 0 0 0 0 0 0 0 0    //Scroll of Fire Ball
 15	6	0	0	0	0	0	0 0 0 0 0 0 0 0 0    //Scroll of Ice
 15	19	0	0	0	0	0	0 0 0 0 0 0 0 0 0    //Chain Lightning Parchment
+15	23	0	0	0	0	0	0 0 0 0 0 0 0 0 0    //Chain Lightning Parchment
+15	24	0	0	0	0	0	0 0 0 0 0 0 0 0 0    //Chain Lightning Parchment
+15	26	0	0	0	0	0	0 0 0 0 0 0 0 0 0    //Chain Lightning Parchment
+15	27	0	0	0	0	0	0 0 0 0 0 0 0 0 0    //Chain Lightning Parchment
 end

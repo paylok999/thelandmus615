@@ -1,0 +1,98 @@
+0
+//EventName              DropZen   ItemDropRate   ItemDropCount   SetItemDropRate   ItemDropType   Fireworks	DropInventory
+"Purple Box"	 999999    100		  1		  0		    0		   0            0
+end
+
+1
+//Section   Type   MinLevel   MaxLevel   Skill   Luck   Option   Excellent
+//BOA
+
+7           29     0          0          1       1      0        2 //DK Helm
+8           29     0          0          1       1      0        2 //DK Helm
+9           29     0          0          1       1      0        2 //DK Helm
+10           29     0          0          1       1      0        2 //DK Helm
+11           29     0          0          1       1      0        2 //DK Helm
+
+7           30     0          0          1       1      0        2 //VM Helm
+8           30     0          0          1       1      0        2 //VM Helm
+9           30     0          0          1       1      0        2 //VM Helm
+10           30     0          0          1       1      0        2 //VM Helm
+11           30     0          0          1       1      0        2 //VM Helm
+
+7           31     0          0          1       1      0        2 //Sylph Helm
+8           31     0          0          1       1      0        2 //Sylph Helm
+9           31     0          0          1       1      0        2 //Sylph Helm
+10           31     0          0          1       1      0        2 //Sylph Helm
+11           31     0          0          1       1      0        2 //Sylph Helm
+
+8           32     0          0          1       1      0        2 //Volcano Helm
+9           32     0          0          1       1      0        2 //Volcano Helm
+10           32     0          0          1       1      0        2 //Volcano Helm
+11           32     0          0          1       1      0        2 //Volcano Helm
+
+7           33     0          0          1       1      0        2 //Sunlight Helm
+8           33     0          0          1       1      0        2 //Sunlight Helm
+9           33     0          0          1       1      0        2 //Sunlight Helm
+10           33     0          0          1       1      0        2 //Sunlight Helm
+11           33     0          0          1       1      0        2 //Sunlight Helm
+
+7           43     0          0          1       1      0        2 //SB Helm
+8           43     0          0          1       1      0        2 //SB Helm
+9           43     0          0          1       1      0        2 //SB Helm
+10           43     0          0          1       1      0        2 //SB Helm
+11           43     0          0          1       1      0        2 //SB Helm
+
+7           73     0          0          1       1      0        2 //PS Helm
+8           73     0          0          1       1      0        2 //PS Helm
+9           73     0          0          1       1      0        2 //PS Helm
+11           73     0          0          1       1      0        2 //PS Helm
+
+7           29     0          0          1       1      0        1 //DK Helm
+8           29     0          0          1       1      0        1 //DK Helm
+9           29     0          0          1       1      0        1 //DK Helm
+10           29     0          0          1       1      0        1 //DK Helm
+11           29     0          0          1       1      0        1 //DK Helm
+
+7           30     0          0          1       1      0        1 //VM Helm
+8           30     0          0          1       1      0        1 //VM Helm
+9           30     0          0          1       1      0        1 //VM Helm
+10           30     0          0          1       1      0        1 //VM Helm
+11           30     0          0          1       1      0        1 //VM Helm
+
+7           31     0          0          1       1      0        1 //Sylph Helm
+8           31     0          0          1       1      0        1 //Sylph Helm
+9           31     0          0          1       1      0        1 //Sylph Helm
+10           31     0          0          1       1      0        1 //Sylph Helm
+11           31     0          0          1       1      0        1 //Sylph Helm
+
+8           32     0          0          1       1      0        1 //Volcano Helm
+9           32     0          0          1       1      0        1 //Volcano Helm
+10           32     0          0          1       1      0        1 //Volcano Helm
+11           32     0          0          1       1      0        1 //Volcano Helm
+
+7           33     0          0          1       1      0        1 //Sunlight Helm
+8           33     0          0          1       1      0        1 //Sunlight Helm
+9           33     0          0          1       1      0        1 //Sunlight Helm
+10           33     0          0          1       1      0        1 //Sunlight Helm
+11           33     0          0          1       1      0        1 //Sunlight Helm
+
+7           43     0          0          1       1      0        1 //SB Helm
+8           43     0          0          1       1      0        1 //SB Helm
+9           43     0          0          1       1      0        1 //SB Helm
+10           43     0          0          1       1      0        1 //SB Helm
+11           43     0          0          1       1      0        1 //SB Helm
+
+7           73     0          0          1       1      0        1 //PS Helm
+8           73     0          0          1       1      0        1 //PS Helm
+9           73     0          0          1       1      0        1 //PS Helm
+11           73     0          0          1       1      0        1 //PS Helm
+
+
+
+
+
+
+
+
+
+end

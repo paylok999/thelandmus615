@@ -8,6 +8,8 @@ end
 
 1
 //Section   Type   MinLevel   MaxLevel   Skill   Luck   Option   Excellent
-2           25     0          0          1       1      0        3        //Blessed Scepter
-2           25     0          0          1       1      0        4        //Blessed Scepter
+2           25     0          0          1       1      0        1        //Blessed Scepter
+2           25     0          0          1       1      0        2        //Blessed Scepter
+2           25     0          0          1       0      0        1        //Blessed Scepter
+2           25     0          0          1       0      0        2        //Blessed Scepter
 end

@@ -190,5 +190,13 @@
 6928      0           1           1            1            1           1                 // Snowman (Evolved)
 6929      0           1           1            1            1           1                 // Snow Fairy
 6930      0           1           1            1            1           1                 // Snow Fairy (Evolved)	
+
+7318      1           1           1            1            1           1                 // rare 12	
+7321      0           1           0            1            0           0                 // stardust
+7322      1           1           1            1            1           1                 // kalt
+7323      0           0           0            0            0           0                 // tantalos
+7324      0           0           0            0            0           0                 // club
+
+7189      0           1           0            1            0           0                 // rena
 	
 end

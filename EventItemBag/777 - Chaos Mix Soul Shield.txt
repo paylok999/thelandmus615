@@ -8,6 +8,8 @@ end
 
 1
 //Section   Type   MinLevel   MaxLevel   Skill   Luck   Option   Excellent
-6           33     0          0          0       1      0        3        //Soul Shield
-6           33     0          0          0       1      0        4        //Soul Shield
+6           33     0          0          0       1      0        1        //Soul Shield
+6           33     0          0          0       1      0        2        //Soul Shield
+6           33     0          0          0       0      0        1        //Soul Shield
+6           33     0          0          0       0      0        2        //Soul Shield
 end

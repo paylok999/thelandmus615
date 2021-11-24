@@ -14,6 +14,4 @@ end
 13	142	0	0	0	0	0	0	//2nd Lucky Helm Ticket
 13	143	0	0	0	0	0	0	//2nd Lucky Gloves Ticket
 13	144	0	0	0	0	0	0	//2nd Lucky Boots Ticket
-14	92	0	0	0	0	0	0	//Chaos Card Gold
-14	93	0	0	0	0	0	0	//Chaos Card Rare
 end

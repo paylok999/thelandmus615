@@ -2,5 +2,7 @@
 // NHServers www.nhservers.com.br
 //=========================================================================================================================================
 //Account         Name         Level
-"admin"          "Admin"       2
+"admin"	          "Admin"      2
+"admin99"           "DAENERYS"    2
+"WOLF"           "WOLF"    2	
 end

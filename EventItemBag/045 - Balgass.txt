@@ -8,10 +8,15 @@ end
 
 1
 //Section   Type   MinLevel   MaxLevel   Skill   Luck   Option   Excellent
-13          135     0          0          1       1      1        0
-13          136     0          0          1       1      1        0                              
-13          137     0          0          1       1      1        0
-13          138     0          0          1       1      1        0
-13          139     0          0          1       1      1        0
+14	404	0	0	0	0	0	0	//GES
+14	404	0	0	0	0	0	0	//GES
+14	404	0	0	0	0	0	0	//GES
+14	404	0	0	0	0	0	0	//GES
+14	404	0	0	0	0	0	0	//GES
+14	413	0	0	0	0	0	0	//HA Spirit
+14	404	0	0	0	0	0	0	/garuda flame
+14	404	0	0	0	0	0	0	/garuda flame
+14	404	0	0	0	0	0	0	/garuda flame
+14	404	0	0	0	0	0	0	/garuda flame
 
 end

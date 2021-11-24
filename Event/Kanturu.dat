@@ -15,7 +15,7 @@ end
 //State   Condition   Value
 0	  0	      0
 1	  1	      200
-2	  1	      3600
+2	  1	      60
 3	  0	      0
 end
 

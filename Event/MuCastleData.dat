@@ -1,6 +1,3 @@
-//=========================================================================================================================================
-// NHServers www.nhservers.com.br
-//=========================================================================================================================================
 0
 //Cycle
 7
@@ -14,8 +11,8 @@ end
 4	  3	     0	         0	// idle state
 5	  4	     12	         0	// Notificação de Ataque ao Castelo às guilds
 6	  4	     19	         0	// Lendo o estado de Castle Siege
-7	  6	     14	         0	// Início de Castle Siege
-8	  6	     15	         0	// Fim de Castle Siege
+7	  6	     21	         0	// Início de Castle Siege
+8	  6	     22	         0	// Fim de Castle Siege
 9	  7	     0	         0	// Fim do ciclo de Castle Siege (Volta automaticamente para o 1)
 end
 

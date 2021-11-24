@@ -516,7 +516,7 @@
 13        81            404           6415           6415           *             *             *             *               //Wings MG
 13        80            404           6416           6416           *             *             *             *               //Wings DL
 13        81            404           6417           6417           *             *             *             *               //Wings SUM
-13        113           404           6417           6417           *             *             *             *               //Wings SUM
+13        81           404           6417           6417           *             *             *             *               //Wings SUM
 13        80            404           6418           6418           *             *             *             *               //Wings RF
 10        80            300           6430           6430           *             *             *             1               //Wings POWER
 11        81            300           6430           6430           *             *             *             1               //Wings POWER
@@ -535,22 +535,22 @@
 11        94            15            6815           6815           *             *             *             *               //Blessed Decoration Ring
 12        97            10            6815           6815           *             *             *             *               //Blessed Decoration Ring
 //Index   OptionIndex   OptionValue   ItemMinIndex   ItemMaxIndex   ItemOption1   ItemOption2   ItemOption3   ItemNewOption   Comment
-13        102           5             6431           6431           *             *             *             1               //Wings of Disillusionment
-13        102           5             6432           6432           *             *             *             1               //Wings of Fate
-13        102           5             6433           6433           *             *             *             1               //Wings of Silence
-13        102           5             6434           6434           *             *             *             1               //Wings of Condemnation
-13        102           5             6435           6435           *             *             *             1               //Cloak of Transcendence
-13        102           5             6436           6436           *             *             *             1               //Cloak of Isolation
+13        102           5             6431           6431           *             *             *             *               //Wings of Disillusionment
+13        102           5             6432           6432           *             *             *             *               //Wings of Fate
+13        102           5             6433           6433           *             *             *             *               //Wings of Silence
+13        102           5             6434           6434           *             *             *             *               //Wings of Condemnation
+13        102           5             6435           6435           *             *             *             *               //Cloak of Transcendence
+13        102           5             6436           6436           *             *             *             *               //Cloak of Isolation
 //Index   OptionIndex   OptionValue   ItemMinIndex   ItemMaxIndex   ItemOption1   ItemOption2   ItemOption3   ItemNewOption   Comment
-10        80            300           6432           6432           *             *             *             1               //Wings of Fate
-11        81            300           6432           6432           *             *             *             1               //Wings of Fate
-12        113           300           6432           6432           *             *             *             1               //Wings of Fate
-10        80            300           6434           6434           *             *             *             1               //Wings of Condemnation
-11        81            300           6434           6434           *             *             *             1               //Wings of Condemnation
-12        113           300           6434           6434           *             *             *             1               //Wings of Condemnation
-10        80            300           6436           6436           *             *             *             1               //Cloak of Isolation
-11        81            300           6436           6436           *             *             *             1               //Cloak of Isolation
-12        113           300           6436           6436           *             *             *             1               //Cloak of Isolation
+10        80            300           6432           6432           *             *             *             *               //Wings of Fate
+11        81            300           6432           6432           *             *             *             *               //Wings of Fate
+12        113           300           6432           6432           *             *             *             *               //Wings of Fate
+10        80            300           6434           6434           *             *             *             *               //Wings of Condemnation
+11        81            300           6434           6434           *             *             *             *               //Wings of Condemnation
+12        113           300           6434           6434           *             *             *             *               //Wings of Condemnation
+10        80            300           6437           6437           *             *             *             *               //Cloak of Isolation
+11        81            300           6437           6437           *             *             *             *               //Cloak of Isolation
+12        113           300           6437           6437           *             *             *             *               //Cloak of Isolation
 //Index   OptionIndex   OptionValue   ItemMinIndex   ItemMaxIndex   ItemOption1   ItemOption2   ItemOption3   ItemNewOption   Comment
 3         123           100           6905           6905           *             *             *             *               // Skull
 3         123           200           6906           6906           *             *             *             *               // Skull lv2

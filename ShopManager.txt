@@ -27,8 +27,11 @@
 22        259	*	*	*	//Priestess Reira
 23        577	*	*	*	//Leina
 24        578	*	*	*	//Bolo
-27        709	*	*	*	//Priest James
-28        709	51	32	240	//Priest James 2
-29        789	89	56	202	//Jinn
-30        709	51	34	240	//Priest James 3
+25        545	2	183	28	//Christine Dev
+26        239	0	130	133	//arena guard
+
+//27        709	*	*	*	//Priest James
+//28        709	51	32	240	//Priest James 2
+//29        789	89	56	202	//Jinn
+//30        709	51	34	240	//Priest James 3
 end

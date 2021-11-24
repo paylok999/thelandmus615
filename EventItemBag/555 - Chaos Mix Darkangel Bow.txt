@@ -8,6 +8,8 @@ end
 
 1
 //Section   Type   MinLevel   MaxLevel   Skill   Luck   Option   Excellent
-4           31     0          0          1       1      0        3        //Darkangel Bow
-4           31     0          0          1       1      0        4        //Darkangel Bow
+4           31     0          0          1       1      0        1        //Darkangel Bow
+4           31     0          0          1       1      0        2        //Darkangel Bow
+4           31     0          0          1       0      0        1        //Darkangel Bow
+4           31     0          0          1       0      0        2        //Darkangel Bow
 end

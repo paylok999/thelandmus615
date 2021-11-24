@@ -3,11 +3,11 @@
 //=========================================================================================================================================
 0
 //EventName              DropZen   ItemDropRate   ItemDropCount   SetItemDropRate   ItemDropType   Fireworks     DropInventory
-"Kundun"                 100000    10000          2               9999              0              0             0
+"Kundun"                 0	   100		  1		  0		    0		   0            0
 end
 
 2
 //Section   Type   MinLevel   MaxLevel   Skill   Luck   Option   Excellent   Ancient   Socket
-7           1      3          6          1       1      1        0           1         0
+14           154      0          0          0       0      0       0           0         0 //kalt stone
 end
 

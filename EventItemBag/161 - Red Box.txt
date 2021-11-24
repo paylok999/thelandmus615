@@ -1,0 +1,21 @@
+0
+//EventName              DropZen   ItemDropRate   ItemDropCount   SetItemDropRate   ItemDropType   Fireworks	
+"Blue Candy Box"	 1000	   100		  1		  0		    0		   0
+end
+
+1
+//Section   Type   MinLevel   MaxLevel   Skill   Luck   Option   Excellent
+//BOA
+
+0           42     0          0          1       0      0        2 //Blood Sword
+0           44     0          0          1       0      0        2 //Blood Magic Sword
+0           100    0          0          1       0      0        2 //Blood Claw
+2           22     0          0          1       0      0        2 //Blood Scepter
+4           28     0          0          1       0      0        2 //Blood Bow
+5           41     0          0          1       0      0        2 //Blood Staff
+5           43     0          0          1       0      0        2 //Blood Stick
+
+
+
+
+end
